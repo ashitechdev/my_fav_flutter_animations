@@ -6,12 +6,12 @@
 
 
 -------------
-##Demos
-https://user-images.githubusercontent.com/70078371/113632724-53782200-9689-11eb-86f7-b60222688951.mp4
+##Demos.
 
 
-https://user-images.githubusercontent.com/70078371/113632806-71de1d80-9689-11eb-829a-cc964efadf20.mp4
+[Basic Animations](https://user-images.githubusercontent.com/70078371/113632724-53782200-9689-11eb-86f7-b60222688951.mp4).
 
+[Animations in a View 😈](https://user-images.githubusercontent.com/70078371/113632806-71de1d80-9689-11eb-829a-cc964efadf20.mp4).
 
 -------------------
 
