@@ -116,10 +116,10 @@ class ProFadeAndTransformAnimation extends StatelessWidget {
       Track("opacity").add(
           opacityDuration, Tween(begin: opacityBegin, end: opacityEnd),
           curve: curveOpacity),
-      Track("translateY")
-          .add(yDuration, Tween(begin: yBegin, end: yEnd), curve: curveX),
       Track("translateX")
-          .add(xDuration, Tween(begin: xBegin, end: xEnd), curve: curveY)
+          .add(xDuration, Tween(begin: xBegin, end: xEnd), curve: curveX),
+      Track("translateY")
+          .add(yDuration, Tween(begin: yBegin, end: yEnd), curve: curveY)
     ]);
 
     return ControlledAnimation(

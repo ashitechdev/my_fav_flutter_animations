@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'file:///D:/Fluttere/TO%20GIHUB/my_fav_flutter_animations/lib/example/basics/basic_widget_examples.dart';
+import 'package:my_fav_flutter_animations/example/basics/basic_widget_examples.dart';
 
 import 'example/complete view/complete_view_example.dart';
 
@@ -57,10 +56,14 @@ class MyHomepage extends StatelessWidget {
                   style: ButtonStyle(
                       foregroundColor: MaterialStateProperty.all(Colors.black)),
                   onPressed: () {
-                    Navigator.of(context)
-                        .push(MaterialPageRoute(builder: (context) {
+                    Navigator.push(context,
+                        MaterialPageRoute(builder: (context) {
                       return ProFadeAndTransformAnimationPage();
                     }));
+                    // Navigator.of(context)
+                    //     .push(MaterialPageRoute(builder: (context) {
+                    //   return ProFadeAndTransformAnimationPage();
+                    // }));
                   },
                   child: Text("Pro Fade And Transform Animation Page")),
               SizedBox(
