@@ -1,4 +1,11 @@
-# my_fav_flutter_animations
+# My Favourite Flutter Animations
+
+3 of my most used Flutter Animations in my Flutter Apps.
+
+[*Click here to explore the idea.*](https://www.instagram.com/theflutterway/).
+
+
+-------------
 
 A new Flutter application.
 
