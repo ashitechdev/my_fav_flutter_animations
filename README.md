@@ -2,7 +2,7 @@
 
 3 of my most used Flutter Animations in my Flutter Apps.
 
-[*Click here to explore the idea.*](https://www.instagram.com/theflutterway/).
+[*Click here to explore the idea.*](https://www.instagram.com/p/CNT5RMOAxO2/).
 
 
 -------------
